@@ -1,0 +1,5 @@
+{
+  "name": "Link to QR Code",
+  "description": "A dark-themed tool to generate and download QR codes from links.",
+  "requestFramePermissions": []
+}
